@@ -2,6 +2,6 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
-gcr.io/k8s-minikube/kicbase:latest
+gcr.io/k8s-minikube/kicbase:v0.0.44
 #支持指定架构
 --platform=windows/x86_64 xiaoyaliu/alist
